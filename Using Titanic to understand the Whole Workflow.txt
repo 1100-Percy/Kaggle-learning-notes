@@ -6,7 +6,7 @@ The Whole Workflow：
 ======================================================================================
 2.	Import necessary libraries
 			①	pandas：1）Creatin data 
-																								Series ：s=pd.Series([1,3,5,np.nan],index=['a','b','c','d'],name='number') 
+						Series ：s=pd.Series([1,3,5,np.nan],index=['a','b','c','d'],name='number') 
 																																															out:	a 1
 				 																										 																				b 3
 																														 																					c 5
